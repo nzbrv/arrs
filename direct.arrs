@@ -21,8 +21,9 @@ routing = 1
 # 0, 77.88.8.1
 # 2, common.dot.dns.yandex.net
 
-# 2, me.30x.ru
-# 2, our.30x.ru
+2, me.30x.ru
+2, our.30x.ru
+2, live.eboboshi.ru
 2, myhome.proptech.ru
 2, wi-fi.ru
 2, 1c-bitrix.ru
