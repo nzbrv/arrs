@@ -13,9 +13,9 @@ routing = 1
 # 1, fe80::/10
 
 # DNS напрямую
-0, 77.88.8.8
-0, 77.88.8.1
-2, common.dot.dns.yandex.net
+# 0, 77.88.8.8
+# 0, 77.88.8.1
+# 2, common.dot.dns.yandex.net
 
 # 2, me.30x.ru
 # 2, our.30x.ru
