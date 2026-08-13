@@ -1,25 +1,8 @@
 name = Белые списки
 routing = 1
 
-# Локальные адреса напрямую
-# 2, local
-# 0, 192.168.0.0/16
-# 0, 10.0.0.0/8
-# 0, 172.16.0.0/12
-# 0, 127.0.0.0/8
-# 0, 100.64.0.0/10
-# 0, 224.0.0.0/4
-# 0, 224.0.0.0/4
-# 1, fe80::/10
-
-# DNS напрямую
-# 0, 77.88.8.8
-# 0, 77.88.8.1
-# 2, common.dot.dns.yandex.net
-
-2, myhome.proptech.ru
-2, dom.ufanet.ru
-2, wi-fi.ru
+0, 77.88.8.8
+0, 77.88.8.1
 2, 1c-bitrix.ru
 2, 1c.ru
 2, 1cfresh.com
@@ -65,6 +48,7 @@ routing = 1
 2, alformacap.com
 2, alformacapital.com
 2, altai.ru
+2, amazonaws.com
 2, amur.ru
 2, anytimeru.com
 2, arkhangelsk.ru
@@ -91,7 +75,6 @@ routing = 1
 2, cbr.ru
 2, cdn-tinkoff.ru
 2, cdn-vk.ru
-2, checkip.amazonaws.com
 2, chel.ru
 2, chelyabinsk.ru
 2, chita.ru
@@ -112,6 +95,7 @@ routing = 1
 2, dixy.ru
 2, dnevnik.ru
 2, dns-shop.ru
+2, dobro.ru
 2, dodopizza.ru
 2, dom.ru
 2, domclick.ru
@@ -126,11 +110,13 @@ routing = 1
 2, edu.ru
 2, ekburg.ru
 2, emias.info
+2, evotor.ru
 2, fastvps.ru
 2, finuslugi.ru
 2, fivepost.ru
 2, fix-price.com
 2, freestylediabetes.ru
+2, fut.ru
 2, gazeta.ru
 2, gazprombank.ru
 2, gazprombank.tech
@@ -147,6 +133,7 @@ routing = 1
 2, gu-st.ru
 2, hematonix.ru
 2, hh.ru
+2, hrlink.ru
 2, i-ola.ru
 2, ican-sinocare.ru
 2, idx5.ru
@@ -202,6 +189,7 @@ routing = 1
 2, lenta.com
 2, lenta.ru
 2, lipetsk.ru
+2, lizaalert.org
 2, lmru.tech
 2, lumiflex.ru
 2, magadan.ru
@@ -228,12 +216,12 @@ routing = 1
 2, mos.ru
 2, mosreg.ru
 2, mradx.net
+2, mrgcdn.ru
 2, mts.ru
 2, mtsdengi.ru
 2, murmansk.ru
 2, mvk.com
 2, myapelsin.ru
-2, mycdn.me
 2, mymts.ru
 2, nalchik.ru
 2, nalog.ru
@@ -245,13 +233,13 @@ routing = 1
 2, novosibirsk.ru
 2, nsk.ru
 2, nspk.ru
-2, ok.ru
-2, okcdn.ru
+2, ofd.ru
 2, okko.sport
 2, okko.tv
 2, okolo.app
 2, omsk.ru
 2, oneme.ru
+2, onf.ru
 2, orb.ru
 2, oryol.ru
 2, ozon.ru
@@ -261,6 +249,7 @@ routing = 1
 2, perekrestok.ru
 2, perm.ru
 2, pochta.ru
+2, proptech.ru
 2, psbank.ru
 2, psblog.ru
 2, psk
@@ -275,9 +264,9 @@ routing = 1
 2, rnd.ru
 2, rostaxi.org
 2, rostelecom.ru
+2, rt.ru
 2, rshb.ru
 2, rsscenter.cloud
-2, rt.ru
 2, rtbcdn.ru
 2, russiacalling.com
 2, rutube.ru
@@ -288,29 +277,34 @@ routing = 1
 2, sakhalin.ru
 2, samara.ru
 2, saratov.ru
+2, sberbank.ru
 2, sbermarket.ru
 2, sbermegamarket.ru
 2, sbpgpb.ru
+2, sber.ru
 2, sev.ru
 2, sevastopol.ru
 2, simbirsk.ru
+2, sirius.online
 2, sistema-capital.com
 2, smolensk.ru
+2, sochisirius.ru
 2, spb.ru
+2, sportmail.ru
 2, spvb.ru
 2, static-storage.net
 2, stavropol.ru
 2, stv.ru
 2, surgut.ru
 2, svoy.academy
+2, tbank.ru
+2, tbank-online.com
 2, t2.ru
+2, tele2.ru
 2, tambov.ru
-2, tamtam.chat
 2, tatarstan.ru
 2, taximaxim.ru
 2, taxsee.com
-2, tbank-online.com
-2, tele2.ru
 2, timeweb.cloud
 2, timeweb.com
 2, tips.tips
@@ -323,7 +317,6 @@ routing = 1
 2, trbcdn.net
 2, tsaritsyn.ru
 2, tsk.ru
-2, tsx.x5static.net
 2, tu-tu.ru
 2, tula.ru
 2, turbopages.org
@@ -333,12 +326,18 @@ routing = 1
 2, tyumen.ru
 2, udm.ru
 2, udmurtia.ru
+2, ufanet.ru
 2, ulan-ude.ru
 2, usedesk.ru
-2, userapi.com
 2, uxfeedback.ru
 2, vgtrk.ru
 2, victoria-group.ru
+2, mycdn.me
+2, ok.ru
+2, okcdn.ru
+2, tamtam.chat
+2, vk.com
+2, vk.ru
 2, vk-analytics.ru
 2, vk-apps.com
 2, vk-apps.ru
@@ -346,12 +345,10 @@ routing = 1
 2, vk-cdn.net
 2, vk-portal.net
 2, vk.cc
-2, vk.com
 2, vk.company
 2, vk.design
 2, vk.link
 2, vk.me
-2, vk.ru
 2, vk.team
 2, vkcache.com
 2, vkcloud-static.ru
@@ -382,16 +379,13 @@ routing = 1
 2, vologda.ru
 2, voronezh.ru
 2, vrn.ru
-2, vtb-grants.fut.ru
-2, vtb-liga.fut.ru
-2, vtb-russia.com
-2, vtb.bank.in
+2, bank.in
 2, vtb.com
-2, vtb.corp.ru
+2, corp.ru
 2, vtb.digital
-2, vtb.fut.ru
 2, vtb.promo
 2, vtb.ru
+2, vtb-russia.com
 2, vtb24.com
 2, vtb24.ru
 2, vtbcareer.com
@@ -403,10 +397,11 @@ routing = 1
 2, vtbrussia.ru
 2, vtbstrana.ru
 2, vyatka.ru
-2, wb.ru
 2, webvisor.com
 2, webvisor.org
 2, whoosh.bike
+2, wi-fi.ru
+2, wb.ru
 2, wildberries.ru
 2, windsurf.com
 2, wink.ru
@@ -417,6 +412,7 @@ routing = 1
 2, x5l.ru
 2, x5paket.ru
 2, x5q.ru
+2, x5static.net
 2, xn----7sb7akeedqd.xn--p1ai
 2, xn--80aacoonefzg3am8b1fsb.xn--p1ai
 2, xn--80acgfbsl1azdqr.xn--p1ai
@@ -425,13 +421,10 @@ routing = 1
 2, xn--90aifd0aza.site
 2, xn--b1aew.xn--p1ai
 2, xn--d1acpjx3f.xn--p1ai
-2, ya.ru
-2, yads.tech
 2, yakutia.ru
 2, yamal.ru
-2, yandex
-2, yandex-bank.net
-2, yandex-team.ru
+2, ya.ru
+2, yads.tech
 2, yandex.aero
 2, yandex.az
 2, yandex.by
@@ -463,18 +456,19 @@ routing = 1
 2, yandex.tr
 2, yandex.uz
 2, yandexadexchange.net
-2, yandexcloud.net
-2, yandex.cloud
-2, yandexcom.net
-2, yandexmetrica.com
 2, yandexwebcache.net
 2, yandexwebcache.org
-2, yaroslavl.ru
 2, yastat.net
-2, yastatic-net.ru
 2, yastatic.net
+2, yandex
+2, yandex-bank.net
+2, yandex-team.ru
+2, yandexcloud.net
+2, yandexcom.net
+2, yandexmetrica.com
+2, yaroslavl.ru
+2, yastatic-net.ru
 2, yota.ru
-2, youla-web-static.mrgcdn.ru
 2, youla.io
 2, youla.ru
 2, yuzhno-sakhalinsk.ru
